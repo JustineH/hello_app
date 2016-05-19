@@ -1,4 +1,6 @@
 class StaticPagesController < ApplicationController
+# before_action :home
+
   def home
   end
 
